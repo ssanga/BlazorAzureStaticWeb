@@ -1,3 +1,5 @@
+https://dev.to/azure/deploy-your-blazor-app-in-minutes-with-azure-static-web-apps-40bh
+
 ---
 page_type: sample
 languages:
